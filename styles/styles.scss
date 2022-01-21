@@ -1,0 +1,14 @@
+
+/******Variables******/
+@import "./utils/variables";
+@import "./bases/typo";
+
+body {
+    font-family: $secondary-font;
+}
+#Restaurants {
+    background-color: $grey;
+}
+footer {
+    background-color: $black;
+}

@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AACA,uBAAuB;ACDvB,YAAY;ACAZ,QAAQ;AFKR,AAAA,IAAI,CAAC;EACD,WAAW,EEJE,MAAM;CFKtB;;AACD,AAAA,YAAY,CAAC;EACT,gBAAgB,ECLb,0BAA0B;CDMhC;;AACD,AAAA,MAAM,CAAC;EACH,gBAAgB,ECPX,OAAe;CDQvB",
+    "sources": [
+        "styles.scss",
+        "utils/variables.scss",
+        "bases/typo.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
