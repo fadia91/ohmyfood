@@ -1,15 +1,20 @@
-/******Variables******/
-/*Couleurs*/
-/*Font*/
-body {
-  font-family: Roboto;
+/*Header*/
+.header__logo img {
+    width: 120px;
+    height: 60px;
+}
+/****Recherche****/
+.localisation {
+    background-color: gray;
 }
 
+/****Main****/
 #Restaurants {
-  background-color: rgba(245, 240, 240, 0.986);
+    background-color: $grey; 
+
 }
 
+/****Footer****/
 footer {
-  background-color: #2e2d2d;
+    background-color: $black;
 }
-/*# sourceMappingURL=styles.css.map */
